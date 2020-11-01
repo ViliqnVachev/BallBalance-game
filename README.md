@@ -1,4 +1,4 @@
-# BallBalance-game
+# BallBalance-game Viliyan Vachev
 Simple game ball balance. Technology Unity and C#
 
 Курсова работа по Системи за виртуална реалност
